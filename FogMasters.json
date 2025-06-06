@@ -1,6 +1,6 @@
 {
 	"Name": "FOG MASTERS BALANCEAMENTO",
-	"Version": 1749241843,
+	"Version": 1749242658,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2583,7 +2583,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "",
+			"KillerNotes": "Abrir Baús Mágicos não é permitido contra o Lich",
 			"IsDisabled": false,
 			"Map": [
 				"19"
