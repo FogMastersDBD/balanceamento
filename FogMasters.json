@@ -1,6 +1,6 @@
 {
 	"Name": "FOG MASTERS BALANCEAMENTO",
-	"Version": 1749242658,
+	"Version": 1749610450,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1160,15 +1160,20 @@
 			],
 			"ItemWhitelist": [
 				0,
-				22,
-				10
+				10,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
@@ -2583,7 +2588,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Abrir Baús Mágicos não é permitido contra o Lich",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"19"
